@@ -1,0 +1,11 @@
+nav a.active{
+    text-decoration: underline;
+    background: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
